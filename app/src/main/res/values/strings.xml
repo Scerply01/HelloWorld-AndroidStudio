@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">First Assignment</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="test_string">test string</string>
+    <string name="toast">Click Me</string>
 </resources>
